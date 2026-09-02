@@ -3,7 +3,7 @@ Hey, I'm Shreya 👋
 
 > Building at the intersection of **Cybersecurity, AI, and curious ideas.**
 
-I'm an **M.Tech Computer Science & Information Security student at Manipal Institute of Technology**, with a background in **Cybersecurity & Blockchain Technology**.
+I'm a Computer Science & Information Security student, with a background in **Cybersecurity & Blockchain Technology**.
 
 I like understanding how things break, why they break, and—more importantly—how to make them harder to break.
 
