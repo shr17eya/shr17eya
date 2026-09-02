@@ -1,4 +1,4 @@
-<img src="./lily.jpg" width="100%">
+
 Hey, I'm Shreya 👋
 
 > Building at the intersection of **Cybersecurity, AI, and curious ideas.**
