@@ -5,7 +5,7 @@ Hey, I'm Shreya 👋
 
 I'm a Computer Science & Information Security student, with a background in **Cybersecurity & Blockchain Technology**.
 
-I like understanding how things break, why they break, and—more importantly—how to make them harder to break.
+I like understanding how things break, why they break, and more importantly how to make them harder to break.
 
 My interests sit somewhere between **cybersecurity 🔐, artificial intelligence 🤖, digital forensics 🔎, and building things that actually work 🛠️**.
 
